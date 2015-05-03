@@ -1,6 +1,8 @@
 # anise
 one software project administration tool for all environments
 
+Read README.pdf!
+
 Anise helps you to implement a common mechanism for executing all automated tasks for all your software projects.
 The usage scenario is a developer (or a team) working on many different projects with different frameworks
 and different tools. Anise can streamline such a chaos of tools. Typical tasks you would add to an anise-aware
