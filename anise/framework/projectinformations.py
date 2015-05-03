@@ -2,5 +2,5 @@
 # information available at runtime. Do not change stuff here.
 #   Information about anise:
 #   https://ginger.ws/wiki/pino/projs/anise
-version = '1.0.1052'
+version = '1.0.1054'
 homepage = 'https://ginger.ws/wiki/pino/projs/anise'

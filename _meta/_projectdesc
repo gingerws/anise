@@ -3,7 +3,7 @@ version  = "1.0"
 authors  = ["Josef Hahn"]
 summary  = "one software project administration tool for all environments"
 license  = licensing.GPLv3
-email    = "anise2013@ginger.ws"
+email    = "anise2015@ginger.ws"
 keywords = "python software development documentation packaging deployment task execution"
 maturity = projectdata.Maturity.ProductionStable
 
